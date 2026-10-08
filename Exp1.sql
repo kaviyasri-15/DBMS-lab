@@ -43,7 +43,7 @@ SQL> Create Table Enrollments (StudentID int REFERENCES Student(StudentID), Cour
 Table created.
 
 
-SQL> Insert into Enrollments values(1,101);
+SQL> Insert into Enrollments values(1,101):
 
 1 row created.
 
