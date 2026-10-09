@@ -15,7 +15,6 @@ SQL> Insert into Student values(3,'Charlie',21);
 
 1 row created.
 
-
 SQL> Create Table Courses(CourseID int,CourseName varchar(20));
 
 Table created.
