@@ -9,7 +9,6 @@ SQL> CREATE OR REPLACE PROCEDURE Sum_Proc(a IN number,b IN number)IS c number;
 Procedure created.
 
 
-
 SQL> SET SERVEROUTPUT ON;
 SQL> DECLARE
   2  x number;y number;
