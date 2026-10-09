@@ -28,7 +28,6 @@ SQL> Insert into customer values(6,'Komal',22,'MP',4500);
 1 row created.
 
 
-
 SQL> select * from customer;
 
  STUDENTID NAME                                  AGE
