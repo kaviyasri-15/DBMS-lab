@@ -12,7 +12,6 @@ SQL> INSERT INTO student(student_id,student_name,student_email)VALUES(student_se
 
 1 row created.
 
-
 SQL> INSERT INTO student(student_id,student_name,student_email)VALUES(student_seq.NEXTVAL,'Bob Smith','bob@example.com');
 
 1 row created.
